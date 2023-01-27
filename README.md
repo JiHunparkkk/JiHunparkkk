@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JiHun%20Git&fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JiHun's%20Git&fontSize=90&animation=twinkling" />
 
 <h1>👨‍💻Tech Stacks</h1>
 <h3>Platforms & Languages</h3>
