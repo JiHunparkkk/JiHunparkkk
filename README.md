@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1>👨‍💻Tech Stacks</h1>
 <h3>Platforms & Languages</h3>
 <p>
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396.svg?&style=plastic&logo=JAVA&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
 </p>
 
 <h3>Tools</h3>
