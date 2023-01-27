@@ -26,7 +26,13 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Tools</h3>
-
+<p>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/CLion-000000.svg?&style=for-the-badge&logo=CLion&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+</p>
 <h1>🔥Skills</h1>
 
 <h3>BOJ Rank</h3>
