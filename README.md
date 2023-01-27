@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 <h3>Tools</h3>
 
 <h1>🔥Skills</h1>
+
 <h3>BOJ Rank</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=java_java)](https://solved.ac/java_java/)
+
+<h3>Status</h3>
 
 [![JiHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiHunparkkk&show_icons=true&theme=radical)](https://github.com/JiHunparkkk/)
