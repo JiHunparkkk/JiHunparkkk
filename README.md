@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ### 🖥️ Projects
-|Service|Description|Role|Award
+|Service|Description|Role|Award
 |:--:|:--:|:--:|:--:|
 |[Arbaguette](https://github.com/SSAFYRO/SSAFYRO)|사장님과 알바생을 위한 월급정산, 근무스케줄 관리 및 뱅킹서비스|Server Back-end|-|
 |[SSAFYRO](https://github.com/SSAFYRO/SSAFYRO)|AI 화상면접 및 면접 스터디 서비스|Server Back-end|-|
