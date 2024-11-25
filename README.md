@@ -1,6 +1,6 @@
 ## 💪 Park JiHun (박지훈)
 
-### 🪑 Career
+### 🪑 Education
 
 <li><b> Samsung SW Academy For Youth(SSAFY) <sub>Cadet</sub> <sub>(24.01 ~ )</sub></b></li>
 <li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(20.03 ~ 24.02)</sub></b></li>
@@ -31,7 +31,7 @@
 ### 🖥️ Projects
 |Service|Description|Role|Award
 |:--:|:--:|:--:|:--:|
-|[Arbaguette](-)|사장님과 알바생을 위한 월급정산, 근무스케줄 관리 및 뱅킹서비스|Server Back-end|-|
+|[Arbaguette](https://github.com/JiHunparkkk/arbaguette)|사장님과 알바생을 위한 월급정산, 근무스케줄 관리 및 뱅킹서비스|Server Back-end|-|
 |[SSAFYRO](https://github.com/SSAFYRO/SSAFYRO)|AI 화상면접 및 면접 스터디 서비스|Server Back-end|-|
 |[트리블리](https://github.com/Trively/Trively-server)|여행지 추천 및 여행동행 추천 웹 서비스|Front-end Back-end|SSAFY 11기 관통프로젝트 최우수|
 |[Funcare2.0](https://github.com/JiHunparkkk/Funcarenet2.0)|병원치료 이후 재활, 예방을 위한 환자들의 회복을 돕는 플랫폼|Server Back-end|-|
