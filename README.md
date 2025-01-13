@@ -2,7 +2,7 @@
 
 ### 🪑 Education
 
-<li><b> Samsung SW Academy For Youth(SSAFY) <sub>Cadet</sub> <sub>(24.01 ~ )</sub></b></li>
+<li><b> Samsung SW Academy For Youth(SSAFY) <sub>Cadet</sub> <sub>(24.01 ~ 24.12)</sub></b></li>
 <li><b> Sejong University <sub>Department of Computer Science and Engineering</sub> <sub>(20.03 ~ 24.02)</sub></b></li>
 <li><b> Korea Maritime University <sub>Department of Marine Engineering</sub> <sub>(17.03 ~ 20.01)</sub></b></li>
 
